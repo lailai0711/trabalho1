@@ -15,10 +15,10 @@
         </div>
     <div class="menus">
         <ul class="lita">
-           <li><h1>Flora</h1></li>
-           <li><h2>Biomas</h2></li>
-           <li><h3>Animais em Extinção</h3></li>  
-           <li><h4>Novas Descobertas</h4></li>
+           <p>Flora</p>
+           <hr>Biomas</hr>
+           <br>Animais em Extinçao</br>  
+           <p>Novas Descobertas</p>
        </ul>
     </div>    
     </header>
